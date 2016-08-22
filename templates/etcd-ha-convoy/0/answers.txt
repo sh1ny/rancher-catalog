@@ -1,2 +1,0 @@
-DRIVER=convoy-nfs
-PFX=etcd

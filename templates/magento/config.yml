@@ -1,8 +1,7 @@
-name: Magento # Name of the Catalog Entry
+name: Magento
 description: |
   Short description # Description of the Catalog Entry
-version: 0.1 # Version of the Catalog to be used
-category: Web Service # Category to be used for searching catalog entries
-maintainer: Nikolay Bochev # The maintainer of the catalog entry
-license: # The license
-projectURL: https://github.com/sh1ny/rancher-catalog # A URL related to the catalog entry
+version: 0.1
+category: Applications
+maintainer: Nikolay Bochev
+projectURL: https://github.com/sh1ny/rancher-catalog
